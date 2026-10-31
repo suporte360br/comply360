@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /gerador/
 
 Sitemap: https://comply360.com.br/sitemap.xml
