@@ -781,6 +781,9 @@ function redirecionar(destino) {
 paginas['privacy/index.html'] = redirecionar('/privacidade/');
 paginas['legal-notice/index.html'] = redirecionar('/aviso-legal/');
 paginas['subpage/index.html'] = redirecionar('/');
+// Endereços do WordPress que existiu no domínio antes da UOL (vistos no Search Console)
+paginas['index.php/category/uncategorized/index.html'] = redirecionar('/blog/');
+paginas['index.php/2026/02/20/por-que-as-empresas-precisam-de-gestao-de-conformidade/index.html'] = redirecionar('/blog/por-que-empresas-precisam-de-gestao-de-conformidade/');
 
 // ---------- Gravação ----------
 for (const [arq, html] of Object.entries(paginas)) {
