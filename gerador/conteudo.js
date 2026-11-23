@@ -242,6 +242,7 @@ exports.materias = [
 <h2 id="aprovacao">4. Aprovação e contrato</h2>
 <p>Com as respostas e evidências, a área de segurança ou compliance emite um parecer: aprovado, aprovado com ressalvas (com plano de ação e prazo) ou reprovado. Defina quem aprova em cada nível de risco, por exemplo com uma matriz RACI em que compliance é responsável, TI executa a análise técnica e o jurídico aprova as cláusulas.</p>
 <p>O contrato deve refletir o que foi avaliado: obrigações de segurança, comunicação de incidentes, direito de auditoria e devolução dos dados. A assinatura digital com trilha de auditoria facilita guardar a prova de aceite.</p>
+<p>No cadastro, confirme os dados bancários do fornecedor por um canal independente, como um telefone que você já tinha. A troca de dados bancários e o boleto adulterado estão entre as fraudes mais comuns contra empresas, como explica o guia <a href="https://naocaianogolpe.com.br/artigos/golpe-do-boleto-falso.html">Golpe do boleto falso</a>, do Não Caia no Golpe.</p>
 
 <h2 id="monitoramento">5. Monitoramento contínuo</h2>
 <p>A avaliação não termina na contratação. Reavalie periodicamente, com frequência maior para os de alto risco, e sempre que houver mudança relevante no serviço, um incidente ou o vencimento de uma certificação. Indicadores como percentual de fornecedores avaliados, pendências abertas e prazo médio de correção mostram à diretoria como o risco de terceiros está evoluindo.</p>
